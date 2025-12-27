@@ -1,0 +1,24 @@
+{
+  "name": "cultural-voting-platform",
+  "version": "1.0.0",
+  "description": "Privacy-Protected Cultural Project Voting System",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server . -p 3000 -c-1 --cors",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "blockchain",
+    "voting",
+    "cultural",
+    "privacy",
+    "zama",
+    "fhevm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
