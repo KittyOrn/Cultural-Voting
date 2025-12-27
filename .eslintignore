@@ -1,0 +1,14 @@
+node_modules
+artifacts
+cache
+coverage
+dist
+types
+deployments
+fhevmTemp
+VIDEO_SCRIPT.md
+EXAMPLES_COMPLETE.md
+DEPLOYMENT.md
+DEVELOPER_GUIDE.md
+COMPETITION_SUBMISSION.md
+FINAL_SUBMISSION_SUMMARY.md
